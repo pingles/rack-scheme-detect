@@ -1,0 +1,3 @@
+module RackSchemeDetect
+  # Your code goes here...
+end
